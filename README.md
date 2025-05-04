@@ -23,9 +23,9 @@ Navigate to the `dist` folder and double-click the `.exe` file to launch the scr
     python OS_tool.py
 ## 🚀 How to Use
 
-    1. Open the script.
-    2. Select the folders containing the OPT and SAR images.
-    3. Choose the output directory where the results will be saved.
-    4. Sit back and enjoy the process!
+1. Open the script.
+2. Select the folders containing the OPT and SAR images.
+3. Choose the output directory where the results will be saved.
+4. Sit back and enjoy the process!
 
 Feel free to open an issue if you encounter any problems or have suggestions for improvements.
