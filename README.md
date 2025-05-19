@@ -58,6 +58,25 @@ Navigate to the `dist` folder and double-click the `.exe` file to launch the scr
 
 4. Start the registration process by clicking the corresponding button in the interface.
 
-5. Sit back and enjoy — the matched results will be saved in the `Label/` folder.
+5. **New Feature - Check and Edit Mode:**
+   * After starting the registration process, you can enter the Check Mode to review and verify the annotated matching keypoints.
+   * In Check Mode, you can:
+      * Click the "Next" and "Previous" buttons to navigate through the annotated keypoints pairs.
+      * Delete any mismatched or non-ideal keypoint pairs.
+
+6. **New Interactive Features:**
+   * **zoom**: You can now zoom in and out of the images using the mouse wheel.
+   * **Sync Movement**: Right-click and drag to move both the OPT and SAR images in sync, making it easier to compare and annotate.
+
+7. Sit back and enjoy — the matched results will be saved in the `Label/` folder.
+
+## 🛠 Version History
+* **V1** (by **YJW**): Basic labeling functionality for manual annotation.
+
+* **V2**: Improved features for reading and optimizing the registration process.
+
+* **V3** (by **LYL**): Added `Check Mode`, allowing users to review, verify, and delete mismatched keypoints.
+
+* **V4**: Enhanced with `zoom` and `sync movement functionality`, improving both the precision and efficiency of annotation tasks.
 
 Feel free to open an issue if you encounter any problems or have suggestions for improvements.
