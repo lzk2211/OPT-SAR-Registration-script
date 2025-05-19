@@ -78,7 +78,7 @@ class ImageLabel(QLabel):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowIcon(QIcon("mylogo.ico"))
+        self.setWindowIcon(QIcon("image/mylogo.ico"))
         self.setWindowTitle("图像配准标注器")
         self.resize(1200, 800)
 
