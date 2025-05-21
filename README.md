@@ -86,7 +86,7 @@ You have two options to run this script:
 
 * **V2**: Improved features for reading and optimizing the registration process.
 
-* **V3** (by **LYL**): Added `Check Mode`, allowing users to review, verify, and delete mismatched keypoints.
+* **V3** (by [**LYL**](https://github.com/LeoYupi)): Added `Check Mode`, allowing users to review, verify, and delete mismatched keypoints.
 
 * **V4**: Enhanced with `zoom` and `sync movement functionality`, improving both the precision and efficiency of annotation tasks.
 
