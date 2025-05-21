@@ -82,7 +82,7 @@ You have two options to run this script:
 7. Sit back and enjoy — the matched results will be saved in the `Label/` folder.
 
 ## 🛠 Version History
-* **V1** (by **YJW**): Basic labeling functionality for manual annotation.
+* **V1** (by [**Dy-666max**](https://github.com/Dy-666max)): Basic labeling functionality for manual annotation.
 
 * **V2**: Improved features for reading and optimizing the registration process.
 
